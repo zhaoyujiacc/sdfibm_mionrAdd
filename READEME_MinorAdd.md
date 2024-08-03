@@ -2,6 +2,7 @@
 Welcome to the SDFIBM MinorAdd project. This repository is an extension of the original SDFIBM work by Chenguang Zhang, created in 2018.
 
 #Project Description
+
 The sdfibm_minorAdd repository extends the original SDFIBM project by incorporating additional shapes into the libshape library. This update introduces new shapes, including isosceles triangles and circles composed of isosceles triangles, designed to simulate droplet-like structures.
 
 In addition to the new shapes, several utility functions have been added for vector operations:

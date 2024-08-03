@@ -16,6 +16,7 @@ These functions are designed to support the development and customization of add
 Please note that this version is based on the release by the original author in 2023. As such, it may lack some features present in the current version on GitHub, but these omissions are not due to modifications made by the current author. This version has been tested and confirmed to work with OFV10.
 
 #Usage Instructions
+
 The original src directory remains unmodified. All additions are located in the New_src directory. To use this extended version:
 
 Navigate to the New_src directory:
@@ -37,6 +38,7 @@ ln -s /path/to/New_src/sdfibm /path/to/your/case/directory/sdfibm
 Run the sdfibm executable from your case directory as usual.
 
 #Original Author
+
 The original SDFIBM project was developed by Chenguang Zhang in 2018. You can find the original repository and Chenguang Zhang's GitHub profile through the following links:
 
 Chenguang Zhang's GitHub: https://github.com/ChenguangZhang
